@@ -1,0 +1,60 @@
+.portfolio-light-grey,.portfolio-hover-light-grey:hover,.portfolio-light-gray,.portfolio-hover-light-gray:hover{color:#000!important;background-color:#f1f1f1!important}
+.portfolio-content{max-width:980px;margin:auto}.portfolio-rest{overflow:hidden}
+.portfolio-margin{margin:16px!important}.portfolio-margin-top{margin-top:16px!important}.portfolio-margin-bottom{margin-bottom:16px!important}
+.portfolio-margin-left{margin-left:16px!important}.portfolio-margin-right{margin-right:16px!important}
+.portfolio-container:after,.portfolio-container:before,.portfolio-panel:after,.portfolio-panel:before,.portfolio-row:after,.portfolio-row:before,.portfolio-row-padding:after,.portfolio-row-padding:before,
+.portfolio-cell-row:before,.portfolio-cell-row:after,.portfolio-clear:after,.portfolio-clear:before,.portfolio-bar:before,.portfolio-bar:after{content:"";display:table;clear:both}
+.portfolio-col,.portfolio-half,.portfolio-third,.portfolio-twothird,.portfolio-threequarter,.portfolio-quarter{float:left;width:100%}
+.portfolio-col.s1{width:8.33333%}.portfolio-col.s2{width:16.66666%}.portfolio-col.s3{width:24.99999%}.portfolio-col.s4{width:33.33333%}
+.portfolio-col.s5{width:41.66666%}.portfolio-col.s6{width:49.99999%}.portfolio-col.s7{width:58.33333%}.portfolio-col.s8{width:66.66666%}
+.portfolio-col.s9{width:74.99999%}.portfolio-col.s10{width:83.33333%}.portfolio-col.s11{width:91.66666%}.portfolio-col.s12{width:99.99999%}
+@media (min-width:601px){.portfolio-col.m1{width:8.33333%}.portfolio-col.m2{width:16.66666%}.portfolio-col.m3,.portfolio-quarter{width:24.99999%}.portfolio-col.m4,.portfolio-third{width:33.33333%}
+.portfolio-col.m5{width:41.66666%}.portfolio-col.m6,.portfolio-half{width:49.99999%}.portfolio-col.m7{width:58.33333%}.portfolio-col.m8,.portfolio-twothird{width:66.66666%}
+.portfolio-col.m9,.portfolio-threequarter{width:74.99999%}.portfolio-col.m10{width:83.33333%}.portfolio-col.m11{width:91.66666%}.portfolio-col.m12{width:99.99999%}}
+@media (min-width:993px){.portfolio-col.l1{width:8.33333%}.portfolio-col.l2{width:16.66666%}.portfolio-col.l3{width:24.99999%}.portfolio-col.l4{width:33.33333%}
+.portfolio-col.l5{width:41.66666%}.portfolio-col.l6{width:49.99999%}.portfolio-col.l7{width:58.33333%}.portfolio-col.l8{width:66.66666%}
+.portfolio-col.l9{width:74.99999%}.portfolio-col.l10{width:83.33333%}.portfolio-col.l11{width:91.66666%}.portfolio-col.l12{width:99.99999%}}
+.portfolio-white,.portfolio-hover-white:hover{color:#000!important;background-color:#fff!important}
+.portfolio-text-grey,.portfolio-hover-text-grey:hover,.portfolio-text-gray,.portfolio-hover-text-gray:hover{color:#757575!important}
+.portfolio-card-4,.portfolio-hover-shadow:hover{box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19)}
+.portfolio-display-bottomleft{position:absolute;left:0;bottom:0}.portfolio-display-bottomright{position:absolute;right:0;bottom:0}
+.portfolio-container,.portfolio-panel{padding:0.01em 16px}.portfolio-panel{margin-top:16px;margin-bottom:16px}
+.portfolio-text-black,.portfolio-hover-text-black:hover{color:#000!important}
+.portfolio-large{font-size:18px!important}
+.portfolio-text-teal,.portfolio-hover-text-teal:hover{color:#009688!important}
+.portfolio-round-xlarge{border-radius:16px}
+.portfolio-center{text-align:center!important}
+.portfolio-teal,.portfolio-hover-teal:hover{color:#fff!important;background-color:#009688!important}
+.portfolio-center .portfolio-bar{display:inline-block;width:auto}
+.portfolio-text-white,.portfolio-hover-text-white:hover{color:#fff!important}
+.portfolio-small{font-size:12px!important} 
+.portfolio-margin-right{margin-right:16px!important}
+.portfolio-text-teal,.portfolio-hover-text-teal:hover{color:#009688!important}
+.portfolio-card,.portfolio-card-2{box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)}
+.portfolio-white,.portfolio-hover-white:hover{color:#000!important;background-color:#fff!important}
+.portfolio-text-grey,.portfolio-hover-text-grey:hover,.portfolio-text-gray,.portfolio-hover-text-gray:hover{color:#757575!important}
+.portfolio-padding-16{padding-top:16px!important;padding-bottom:16px!important}
+.portfolio-text-teal,.portfolio-hover-text-teal:hover{color:#009688!important}
+.portfolio-opacity,.portfolio-hover-opacity:hover{opacity:0.60}.portfolio-opacity-off,.portfolio-hover-opacity-off:hover{opacity:1}
+.portfolio-tag{background-color:#000;color:#fff;display:inline-block;padding-left:8px;padding-right:8px;text-align:center}
+.portfolio-round-small{border-radius:2px}.portfolio-round,.portfolio-round-medium{border-radius:4px}.portfolio-round-large{border-radius:8px}.portfolio-round-xlarge{border-radius:16px}.portfolio-round-xxlarge{border-radius:32px}
+.portfolio-display-bottomleft{position:absolute;left:0;bottom:0}
+.portfolio-display-container:hover.portfolio-display-hover{display:block}.portfolio-display-container:hover span.portfolio-display-hover{display:inline-block},.portfolio-display-hover{display:none}
+@media (min-width:601px){.portfolio-col.m1{width:8.33333%}.portfolio-col.m2{width:16.66666%}.portfolio-col.m3,.portfolio-quarter{width:24.99999%}.portfolio-col.m4,.portfolio-third{width:33.33333%}
+.portfolio-col.m5{width:41.66666%}.portfolio-col.m6,.portfolio-half{width:49.99999%}.portfolio-col.m7{width:58.33333%}.portfolio-col.m8,.portfolio-twothird{width:66.66666%}
+.portfolio-col.m9,.portfolio-threequarter{width:74.99999%}.portfolio-col.m10{width:83.33333%}.portfolio-col.m11{width:91.66666%}.portfolio-col.m12{width:99.99999%}}
+@media (min-width:993px){.portfolio-col.l1{width:8.33333%}.portfolio-col.l2{width:16.66666%}.portfolio-col.l3{width:24.99999%}.portfolio-col.l4{width:33.33333%}
+.portfolio-col.l5{width:41.66666%}.portfolio-col.l6{width:49.99999%}.portfolio-col.l7{width:58.33333%}.portfolio-col.l8{width:66.66666%}
+.portfolio-col.l9{width:74.99999%}.portfolio-col.l10{width:83.33333%}.portfolio-col.l11{width:91.66666%}.portfolio-col.l12{width:99.99999%}}
+.portfolio-content{max-width:980px;margin:auto}.portfolio-rest{overflow:hidden}
+.portfolio-cell-row{display:table;width:100%}.portfolio-cell{display:table-cell}
+.portfolio-cell-top{vertical-align:top}.portfolio-cell-middle{vertical-align:middle}.portfolio-cell-bottom{vertical-align:bottom}
+.portfolio-hide{display:none!important}.portfolio-show-block,.portfolio-show{display:block!important}.portfolio-show-inline-block{display:inline-block!important}
+@media (max-width:600px){.portfolio-modal-content{margin:0 10px;width:auto!important}.portfolio-modal{padding-top:30px}
+.portfolio-dropdown-hover.portfolio-mobile .portfolio-dropdown-content,.portfolio-dropdown-click.portfolio-mobile .portfolio-dropdown-content{position:relative}	
+.portfolio-hide-small{display:none!important}.portfolio-mobile{display:block;width:100%!important}.portfolio-bar-item.portfolio-mobile,.portfolio-dropdown-hover.portfolio-mobile,.portfolio-dropdown-click.portfolio-mobile{text-align:center}
+.portfolio-dropdown-hover.portfolio-mobile,.portfolio-dropdown-hover.portfolio-mobile .portfolio-btn,.portfolio-dropdown-hover.portfolio-mobile .portfolio-button,.portfolio-dropdown-click.portfolio-mobile,.portfolio-dropdown-click.portfolio-mobile .portfolio-btn,.portfolio-dropdown-click.portfolio-mobile .portfolio-button{width:100%}}
+@media (max-width:768px){.portfolio-modal-content{width:500px}.portfolio-modal{padding-top:50px}}
+@media (min-width:993px){.portfolio-modal-content{width:900px}.portfolio-hide-large{display:none!important}.portfolio-sidebar.portfolio-collapse{display:block!important}}
+@media (max-width:992px) and (min-width:601px){.portfolio-hide-medium{display:none!important}}
+@media (max-width:992px){.portfolio-sidebar.portfolio-collapse{display:none}.portfolio-main{margin-left:0!important;margin-right:0!important}}
